@@ -1,0 +1,13 @@
+{
+  "itemGroup.toomanyitems": "Example Mod Tab",
+  "block.toomanyitems.example_block": "Example Block",
+  "item.toomanyitems.example_item": "Example Item",
+
+  "toomanyitems.configuration.title": "Too Many Items Configs",
+  "toomanyitems.configuration.section.toomanyitems.common.toml": "Too Many Items Configs",
+  "toomanyitems.configuration.section.toomanyitems.common.toml.title": "Too Many Items Configs",
+  "toomanyitems.configuration.items": "Item List",
+  "toomanyitems.configuration.logDirtBlock": "Log Dirt Block",
+  "toomanyitems.configuration.magicNumberIntroduction": "Magic Number Text",
+  "toomanyitems.configuration.magicNumber": "Magic Number"
+}
