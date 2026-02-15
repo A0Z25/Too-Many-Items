@@ -10,7 +10,7 @@ public class ModItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(TooManyItems.MODID);
 
     public static final DeferredItem<Item> TEST_ITEM = ITEMS.registerSimpleItem("test_item");
-
+    public static final DeferredItem<Item> BISMUTH = ITEMS.registerSimpleItem("bismuth");
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
     }

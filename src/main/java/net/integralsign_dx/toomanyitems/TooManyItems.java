@@ -103,8 +103,9 @@ public class TooManyItems {
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+        if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.TEST_ITEM);
+            event.accept(ModItems.BISMUTH);
         }
     }
 
